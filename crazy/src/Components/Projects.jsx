@@ -34,7 +34,7 @@ useEffect(()=>{
 
 
   return (
-    <div className='flex justify-center items-center h-screen bg-gray-200'> 
+    <div className=''> 
                <Navbar/>
         <h1>crazy </h1>
         <form onSubmit={handleClick} >  
