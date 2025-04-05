@@ -35,7 +35,7 @@ useEffect(()=>{
 
   return (
     <div className=''> 
-               <Navbar/>
+               
         <h1>crazy </h1>
         <form onSubmit={handleClick} >  
       <input type='text'
