@@ -2,7 +2,7 @@ import React from 'react'
 import { NavLink } from 'react-router'
 function Navbar() {
   return (
-    <div className='p-4 bg-gray-400 flex justify-between'>   
+    <div className='p-4 bg-white flex justify-between'>   
          <nav>
             <ul>
                 <li> <NavLink 
